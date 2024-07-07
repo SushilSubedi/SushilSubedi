@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SushilSubedi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning backend with nodeJS
+- 🌱 I’m currently learning backend
 - 💞️ I’m looking to collaborate on open source contribution 
 - 📫 How to reach me sushilsubedi151@gmail.com
 
